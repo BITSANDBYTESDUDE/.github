@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=BITESANDBYTESDUDE&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Building%20modern%20digital%20experiences&descSize=18&descAlignY=62" width="100%" alt="BITESANDBYTESDUDE banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=BITSANDBYTESDUDE&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Building%20modern%20digital%20experiences&descSize=18&descAlignY=62" width="100%" alt="BITSANDBYTESDUDE banner" />
 
 # 🚀 Welcome to BITSANDBYTESDUDE
 
